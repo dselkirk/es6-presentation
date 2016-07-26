@@ -1,0 +1,20 @@
+{
+  "name": "es6-presentation",
+  "version": "0.1.0",
+  "description": "Presentation for EPAM Front-End courses",
+  "main": "index.html",
+  "authors": [
+    "Dennis Selkirk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}
